@@ -285,7 +285,7 @@ button { font-family: var(--ff-body); }
   justify-content: start;
   text-align: start;
   padding-left: clamp(40px, 12vw, 200px);
-  background: url('http://www.nivarrah.com/css/images/main-1.png') center/cover no-repeat;
+  background: url('/images/main-1.png') center/cover no-repeat;
   background-position: center;
 }
 .hero-overlay {
