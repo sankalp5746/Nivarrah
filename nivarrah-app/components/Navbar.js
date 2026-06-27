@@ -15,7 +15,7 @@ export default function Navbar() {
     <header id="navbar" className={scrolled ? 'scrolled' : ''} role="banner">
       <div className="nav-container">
         <a href="#hero" className="nav-brand" aria-label="Nivarrah — Home">
-          <img src="/images/nivarrah-logo.png" alt="Nivarrah" />
+          <img src="https://images.weserv.nl/?url=www.nivarrah.com/css/images/Nivarrah%20(2).png" alt="Nivarrah" />
         </a>
         <nav aria-label="Primary navigation">
           <ul className={`nav-links${menuOpen ? ' open' : ''}`} id="nav-links">
