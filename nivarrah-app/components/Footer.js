@@ -59,7 +59,7 @@ export default function Footer() {
 
         <div className="footer-bottom">
           <p>ॐ शान्तिः शान्तिः शान्तिः</p>
-          <p>© {new Date().getFullYear()} Nivarrah · Sunnyy K Parekh · All rights reserved</p>
+          <p>© {new Date().getFullYear()} Nivarrah · Created & Designed By <a href="https://technosketch.framer.media/" target="_blank" rel="noopener noreferrer" className="footer-col-head">TechnoSketch</a> · All rights reserved</p>
         </div>
       </div>
     </footer>
